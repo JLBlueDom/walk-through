@@ -6,7 +6,9 @@ It is recommended to configure non-consent partners also.
 
 While daily reports are assigned to a specific AFE, WBD (wellbore diagrams) assigned to an API. A partner will receive WBDs until the existing permission is altered, or a newer AFE permission revokes the permission.
 
-## [Well Accounting](http://slcplwell01/well/accounting)
+## Well Accounting
+- <http://slcplwell01/well/accounting>
+  
 - Select the Excalibur Billing Account the AFE is under by clicking on it
   
 ![Select the Excalibur Billing Account the AFE is under](./images/selectAccount.png "Selected Account")
@@ -29,9 +31,10 @@ This manual configuration will allow automation to be used during drilling and c
 
 ![Partner Emails](./images/partnerEmails.png "Partner Emails")
 
-## [AFE](http://slcplwell01/well/afe)
-
+## AFE
 The configuration for the AFE should be pretty straight forward
+
+- <http://slcplwell01/well/afe>
 
 - Select the AFE by clicking on it
 
@@ -47,14 +50,17 @@ The configuration for the AFE should be pretty straight forward
   - Timestamps are automatically added a record is first added to the Db
 
 
-## [Partner Summary](http://slcplwell01/summary/partner)
-
+## Partner Summary
 Summary screens are also provided where all Report Partners and AFE Permissions can be seen / searched
 
-- [Account](http://slcplwell01/summary/partner/account)
+-<http://slcplwell01/summary/partner>
+
+- Account
+  - <http://slcplwell01/summary/partner/account>
 
 ![Account Summary](./images/summaryAccount.png "Account Summary")
 
-- [AFE](http://slcplwell01/summary/partner/afe)
+- AFE
+  - <http://slcplwell01/summary/partner/afe>
 
 ![AFE Summary](./images/summaryAfe.png "AFE Summary")
